@@ -1,8 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Overpass:wght@200;300;400;500;600;700;900&display=swap");
 
 body {
-	color: black;
+	color: rgb(255, 255, 255);
 	font-family: "Overpass", sans-serif;
+	background-image: url('https://wallpaperaccess.com/full/1092567.png');
 }
 
 h1 {
@@ -23,7 +24,7 @@ h1 {
 	height: -webkit-fit-content;
 	height: -moz-fit-content;
 	height: fit-content;
-	box-shadow: 0 0 10px rgb(126, 125, 125);
+	box-shadow: 0 0 10px rgb(124, 189, 245);
 	padding: 1.5rem;
 	display: flex;
 	justify-content: center;
@@ -41,7 +42,7 @@ h1 {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
-	background-color: rgb(209, 206, 206);
+	background-color: rgb(129, 175, 231);
 }
 
 .result-wrapper .input-image-container img {

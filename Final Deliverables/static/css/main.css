@@ -8,6 +8,8 @@
 body {
 	color: black;
 	font-family: "Overpass", sans-serif;
+	background-image: url('https://www.zastavki.com/pictures/1600x900/2015/Backgrounds_Orange_gradient_background_096901_25.jpg');
+	
 }
 
 .container {
@@ -17,7 +19,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	background-color: white;
+	background-color: rgb(255, 255, 255);
 }
 
 .heading {
@@ -45,7 +47,7 @@ body {
 }
 
 .form-wrapper {
-	background-color: rgba(190, 190, 190, 0.5);
+	background-color: rgba(11, 25, 218, 0.5);
 	width: 100%;
 	height: 100%;
 	display: flex;
@@ -71,9 +73,9 @@ body {
 	height: -moz-fit-content;
 	height: fit-content;
 	border-radius: 6px;
-	color: white;
-	background-color: rgb(114, 96, 182);
-	box-shadow: 0 5px 10px rgb(146, 135, 247);
+	color: rgb(255, 255, 255);
+	background-color: rgb(238, 140, 41);
+	box-shadow: 0 5px 10px rgb(249, 127, 51);
 }
 
 .form-wrapper .upload #up_btn {
@@ -83,7 +85,7 @@ body {
 .form-wrapper .upload label {
 	font-size: 1rem;
 	font-weight: 600;
-	color: white;
+	color: rgb(255, 255, 255);
 	height: 100%;
 	width: 100%;
 	padding: 10px;
