@@ -1,5 +1,6 @@
 from flask import Flask, render_template
 from requests import request
+import pandas as pd
 
 app=Flask(__name__)
 
