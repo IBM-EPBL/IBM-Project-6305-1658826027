@@ -18,5 +18,5 @@
 
 ## Project Details
 
-> **Domain :** Artificial Intelligence 
- **Project Title :** A Novel Method for Handwritten Digit Recognition System
+> **Domain :** Artificial Intelligence <br>
+> **Project Title :** A Novel Method for Handwritten Digit Recognition System
