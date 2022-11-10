@@ -1,5 +1,5 @@
-# IBM-Project-6305-1658826027
-A Novel Method for Handwritten Digit Recognition System<br>
+#h1 IBM-Project-6305-1658826027
+#h3 A Novel Method for Handwritten Digit Recognition System<br>
 Team ID : PNT2022TMID20912<br>
 Team Size : 4<br>
 Team Leader : Sri Vinayaga Barathan<br>
