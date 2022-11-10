@@ -29,11 +29,11 @@
 	 - [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Sri%20Vinayaga%20Barathan/Assignment_3.ipynb)
 	 - [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Sri%20Vinayaga%20Barathan/Assignment_4.ipynb)
 	 
- - **Team Member (Jaysuriya N)**
-	 - Assignment 1
-	 - Assignment 2
-	 - Assignment 3
-	 - Assignment 4
+ - **[Team Member (Jaysuriya N)](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/tree/main/Assignments/Jaysuriya%20N)**
+	 - [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Jaysuriya%20N/Assignment_1.ipynb)
+	 - [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Jaysuriya%20N/Assignment_2.ipynb)
+	 - [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Jaysuriya%20N/Assignment_3.ipynb)
+	 - [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Jaysuriya%20N/Assignment_4.ipynb)
 
  - **Team Member (Udhayakumar G)**
 	 - Assignment 1
