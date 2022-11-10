@@ -35,11 +35,11 @@
 	 - [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Jaysuriya%20N/Assignment_3.ipynb)
 	 - [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Jaysuriya%20N/Assignment_4.ipynb)
 
- - **Team Member (Udhayakumar G)**
-	 - Assignment 1
-	 - Assignment 2
-	 - Assignment 3
-	 - Assignment 4
+- **[Team Member (Udhayakumar G)](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/tree/main/Assignments/Udhayakumar)**  
+	- [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Udhayakumar/Assignment_1.ipynb)  
+	- [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Udhayakumar/Assignment_2.ipynb)  
+	- [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Udhayakumar/Assignment_3.ipynb)  
+	- [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-6305-1658826027/blob/main/Assignments/Udhayakumar/Assignment_4.ipynb)  
 
  - **Team Member (Keshav Kumar P)**
 	 - Assignment 1
