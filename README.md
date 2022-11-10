@@ -6,10 +6,17 @@
 </div>
 
 ## Team Details
-> Team ID : PNT2022TMID20912  
-Team Size : 5  
-Team Leader : Sri Vinayaga Barathan  
-Team member : Jaysuriya N  
-Team member : Udhayakumar G  
-Team member : Keshav Kumar  
-Team member : Arunachalam PL
+> **Team ID :** PNT2022TMID20912  
+**Team Size :** 5  
+**Team Leader :** Sri Vinayaga Barathan  
+**Team member :** Jaysuriya N  
+**Team member :** Udhayakumar G  
+**Team member :** Keshav Kumar  
+**Team member :** Arunachalam PL
+
+
+
+## Project Details
+
+> **Domain :** Artificial Intelligence 
+> **Project Title :** A Novel Method for Handwritten Digit Recognition System
