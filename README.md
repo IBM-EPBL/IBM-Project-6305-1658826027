@@ -5,6 +5,7 @@
   <h2 align="center">A Novel Method for Handwritten Digit Recognition System</h2>
 </div>
 
+## Team Details
 > Team ID : PNT2022TMID20912  
 Team Size : 5  
 Team Leader : Sri Vinayaga Barathan  
