@@ -30,7 +30,7 @@ def recognize(image: bytes) -> tuple:
 		tuple: The best prediction, other predictions and file name
 	"""
  
-	model=load_model(Path("./model/model.h5"))
+	model=load_model(Path("./model/digitRecog.h5"))
 
 	img = Image.open(image).convert("L")
  
