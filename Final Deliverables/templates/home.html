@@ -9,19 +9,20 @@
     </head>
     <body>
         <div class="container">
-            <div class="heading">
-                <h1 class="heading__main">Handwritten Digit Recognizer</h1>
+            <h1 class="heading__main">Handwritten Digit Recognizer</h1>
                 <h2 class="heading__sub">Web Application to detect Handwritten digits</h2>
-            </div>
-            <div class="upload-container">
+           
                 <div class="form-wrapper">
+                    <marquee width="100%" direction="left" height="60px">
+                        <b><-----Provide an image for which you want to get the clear identity-------></b>
+                        </marquee><br>
                     <form class="upload" action="/predict" method="post" enctype="multipart/form-data">
                         <label id="label" for="upload-image"><i data-feather="file-plus"></i>Select File</label>
                         <input type="file" name="photo" id="upload-image" hidden />
                         <button type="submit" id="up_btn"></button>
                     </form>
                     <img id="loading" src="{{url_for('static',filename='images/loading.gif')}}">
-                </div>
+                
             </div>
         </div>
     </body>
